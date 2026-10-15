@@ -1,0 +1,5 @@
+pygame>=2.6.1
+tensorflow==2.19.0
+tf-keras==2.19.0
+numpy>=1.26
+pillow>=10.0
