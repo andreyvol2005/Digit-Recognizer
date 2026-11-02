@@ -1,4 +1,4 @@
-# Digit-Recognizer
+<h1 align="center">Digit-Recognizer</h1>
 
 ![Демонстрация работы](./recognizer.gif)
 
